@@ -1,5 +1,5 @@
 // file : Matrix.h
-//   by : Prof. Allen
+//   by : Martin Becerra JR
 // desc : A matrix class definition
 // --------------------------------------------------------
 #include <string>
