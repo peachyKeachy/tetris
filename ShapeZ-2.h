@@ -1,6 +1,6 @@
 //  file: ShapeZ.h
 // class: COP 3003 Programming II
-//    by: Prof. Allen
+//    by: Martin Becerra JR
 //  desc: Z shape for game Tetris derived
 //        from the base class Tetromino
 // --------------------------------------------------------
