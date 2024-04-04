@@ -1,5 +1,5 @@
 // file : Matrix.cpp
-//   by : Prof. Allen
+//   by : Martin Becerra JR
 // desc : A matrix class implementation
 // --------------------------------------------------------
 
