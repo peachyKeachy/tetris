@@ -1,6 +1,6 @@
 # tetris
 
-<svg xmlns="http://www.w3.org/2000/svg" width="136" height="20" role="img" aria-label="openssf scorecard: 4.8">
+[[[<svg xmlns="http://www.w3.org/2000/svg" width="136" height="20" role="img" aria-label="openssf scorecard: 4.8">
   <title>openssf scorecard: 4.8</title>
   <linearGradient id="s" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
@@ -21,3 +21,7 @@
     <text x="1215" y="140" transform="scale(.1)" fill="#fff" textLength="170">4.8</text>
   </g>
 </svg>
+](https://api.securityscorecards.dev/projects/github.com/peachyKeachy/tetris/badge?style=flat
+)](https://api.securityscorecards.dev/projects/github.com/peachyKeachy/tetris/badge?style=flat
+)](https://api.securityscorecards.dev/projects/github.com/peachyKeachy/tetris/badge?style=flat
+)
